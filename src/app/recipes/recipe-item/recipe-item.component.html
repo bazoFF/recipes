@@ -1,0 +1,6 @@
+<ion-item (click)="recipesRoutingService.toRecipesDetail(item.id)">
+  <ion-avatar slot="start">
+    <ion-img [src]="item.imageURL"></ion-img>
+  </ion-avatar>
+  <ion-label>{{ item.title }}</ion-label>
+</ion-item>

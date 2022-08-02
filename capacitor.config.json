@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "recipes",
+	"appId": "io.ionic.starter.recipes",
+	"appName": "Recipes",
 	"webDir": "www",
 	"bundledWebRuntime": false
 }
